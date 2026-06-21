@@ -1,7 +1,5 @@
 # Calculadora Dinámica con JavaScript (AJAX) y Flask
 
-## Respuestas Técnicas al Requerimiento
-
 ### 1. Implementación en la Vista (fetch.html)
 Se integró la etiqueta `<select>` dentro del formulario para permitir al usuario alternar entre las operaciones disponibles como suma,resta,multiplicacion y division.
 
