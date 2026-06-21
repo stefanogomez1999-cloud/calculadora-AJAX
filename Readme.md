@@ -14,10 +14,13 @@ Se integró la etiqueta `<select>` dentro del formulario para permitir al usuari
 Se va a evidenciar las siguientes operaciones: 
 ### a. Suma (100 + 200)
 ![Evidencia suma](evidencia/Suma.png)
+![Evidencia suma](evidencia/Suma_html.png)
 ### b. Resta (50 - 12)
 ![Evidencia resta](evidencia/Resta.png)
+![Evidencia suma](evidencia/Resta_html.png)
 ### c. Multiplicacion (100 * 50)
 ![Evidencia multiplicacion](evidencia/Multiplicacion.png)
+![Evidencia suma](evidencia/Multiplicacion_html.png)
 ### d. Division (20 / 3)
 ![Evidencia division](evidencia/Division.png)
-
+![Evidencia division](evidencia/Division_html.png)
