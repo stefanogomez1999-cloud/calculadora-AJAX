@@ -1,0 +1,26 @@
+### 1. SUMA
+POST http://127.0.0.1:5000/jscode/
+Content-Type: application/x-www-form-urlencoded
+
+a=100&b=200&operacion=suma
+
+
+### 2.RESTA
+POST http://127.0.0.1:5000/jscode/
+Content-Type: application/x-www-form-urlencoded
+
+a=50&b=12&operacion=resta
+
+
+### 3.MULTIPLICACIÓN
+POST http://127.0.0.1:5000/jscode/
+Content-Type: application/x-www-form-urlencoded
+
+a=100&b=50&operacion=multiplicacion
+
+
+### 4. DIVISIÓN 
+POST http://127.0.0.1:5000/jscode/
+Content-Type: application/x-www-form-urlencoded
+
+a=20&b=3&operacion=division

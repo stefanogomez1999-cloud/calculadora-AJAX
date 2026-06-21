@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+instance/
+
+.venv/
+venv/
+env/
+ENV/
+
+.DS_Store
+Thumbs.db
